@@ -5,4 +5,7 @@ spring:
       group-id: ${groupId}-${artifactId}
 
 kafka:
-  topic: foobar
+  consumer:
+    topic: foo
+  producer:
+    topic: bar

@@ -5,5 +5,7 @@
   <id>spring-boot-kafka-archetype</id>
   <sources>
     <source>src/main/java/App.java</source>
+    <source>src/main/java/Consumer.java</source>
+    <source>src/main/java/Producer.java</source>
   </sources>
 </archetype>
