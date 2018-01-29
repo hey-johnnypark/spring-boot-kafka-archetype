@@ -7,4 +7,9 @@ Archetype for creating a spring boot application reading from a Kafka topic
 
 ## Use
 
-```mvn archetype:generate -DarchetypeGroupId=com.github.hey-johnnypark -DarchetypeArtifactId=spring-boot-kafka-archetype -DarchetypeVersion=1.0```
+```
+mvn archetype:generate 
+-DarchetypeGroupId=com.github.hey-johnnypark 
+-DarchetypeArtifactId=spring-boot-kafka-archetype 
+-DarchetypeVersion=1.0
+```
